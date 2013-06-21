@@ -1,0 +1,19 @@
+#+ TODO: TODO(t) DRAFT(f@/!) | DONE(d!) CANCELLED(c) 
+#+ OPTIONS: indent showeverything logdrawer toc:nil
+
+* TODO abstract
+* TODO introduction
+* TODO theory/literature [%]
+** TODO public geography
+*** TODO gather citations
+*** TODO incorporate citations, literature discussion
+* TODO case/body [%]
+  Let's start with this, building around key quotes.
+** TODO international geopolitics
+
+** TODO national politics
+** TODO NWO
+* TODO conclusion
+* TODO publish paper
+** TODO submit manuscript to journal
+   
