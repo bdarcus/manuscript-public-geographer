@@ -1,0 +1,215 @@
+#+language: en
+#+title: Cold War Geographer and Public Intellectual
+#+author: Bruce D'Arcus
+#+date: 2021
+#+cite_export: biblatex authoryear-comp
+# #+cite_export: csl apa-6th-edition.csl
+
+#+begin_abstract
+Geographers have long engaged in critical analysis of the geographic ideas latent in popular discourses.
+Yet what about the popular discourses of academic geographers?
+This paper analyzes one such example of Susan Huck, who earned a PhD in geography in 1962, taught for a short time in American universities, and then went on to become a core public intellectual voice for the John Birch Society.
+My analysis places Huck's inventions in context, working in two directions: 1) how larger geopolitical context shaped her discourse, and 2) how she, and her geographic training, seems to have shaped larger conservative geopolitical discourses in the United States.
+Such analysis may contribute to contemporary debates about public geography.
+#+end_abstract
+
+* Introduction
+  :PROPERTIES:
+  :CUSTOM_ID: introduction
+  :END:
+
+In the past decade, as part of a broader reassessment of the relevance of academic geography, geographers have called for a renewed commitment to /public geography/ ++.
+This commitment ranges from a focus on research projects with clear popular or general relevance, to communicating the results of one's research in more accessible language to broader audiences.
+
+Questions about the relevance of academic geography, however, are nothing new.
+The 1960s and 1970s were another period where geographers focused on questions of public relevance.
+Geographers of an emerging new left principally framed their reactions to the Quantitative Revolution as centered on the question of political relevance.
+David Harvey ++, for example, argued in 197* that **.
+
+Little noticed in the literature, though, has been the voice of academic geography in conservative public discourse.
+This paper aims to remedy that in a small way by examining the import and transformation of academic geographic ideas in the public discourse of the John Birch Society; a conservative political organization forged in the context of the Cold War, with more recent echoes in the Tea Party movement of post-2008.
+
+This paper analyzes the public discourse of Susan Huck, who earned a PhD in geography in 1962 at Clark University, taught for a short time in American universities, and then went on to become a core public intellectual voice for the John Birch Society.
+My analysis places her inventions in context, working in two directions: 1) how larger geopolitical context shaped Huck's discourses, and 2) how she, and her geographic training, seems to have shaped larger conservative geopolitical discourses in the United States.
+
+* Relevance, Public Intellectualism, and the Geographic Tradition
+  :PROPERTIES:
+  :CUSTOM_ID: relevance-public-intellectualism-and-the-geographic-tradition
+  :END:
+
+Periodically, Geography finds itself in a crisis of relevance.
+These crises are sometimes internally generated, as geographic debate challenges collective notions of the kinds of questions we ask, and the ends to which we direct our knowledge.
+
+Other times, larger exogenous forces press the question of disciplinary
+relevance: funding agencies and politicians, Deans and Provosts, and so
+forth.
+
+In the past decade, geographers have again raised the question of
+relevance.
+
+Another such period came in the late-1960s and early 1970s.
+
+Yet little studied has been the role of conservative politics in this transformation.
+
+* A Cold Warrior and a Public Geographer
+  :PROPERTIES:
+  :CUSTOM_ID: a-cold-warrior-and-a-public-geographer
+  :END:
+** Mad Men: The John Birch Society and Cold War Geopolitics
+   :PROPERTIES:
+   :CUSTOM_ID: mad-men-the-john-birch-society-and-cold-war-geopolitics
+   :END:
+
+Robert H. Welch founded the John Birch Society at a meeting in Indianapolis in 1951, with the purpose of providing an organizational home to his ideas.
+He published the text of his talks subsequently in /The Blue Book/ [cite/na:@robertwelch1959].
+In it, Welch argued that Communism was a mortal danger to the United States and its democratic allies, and that this danger came from an expansive and secretive global conspiracy that sought to create a global Communist government.
+He saw evidence of this conspiracy everywhere: from peasant movements half-way around the world, to the machinations of the United Nations, to the actions of domestic politicians and media figures.
+
+Welch named the Society after John Birch, who was a U.S.
+military intelligence officer and what Welch described as "a fundamentalist Baptist missionary" killed by Chinese Red Army troops in 1945.
+For Welch, Birch was thus a martyr for this emerging Cold War, and hence a symbol of this cosmic struggle.
+
+** From Academic Geographer to Public Intellectual
+   :PROPERTIES:
+   :CUSTOM_ID: from-academic-geographer-to-public-intellectual
+   :END:
+
+Susan Huck's transition from academic geographer to public voice of the John Birch Society is surprising in retrospect.
+Her 1962 dissertation was a regional political geography of the British Honduras.
+In a 1971 survey of work on political geography in Latin America, Stan Brunn et al [cite/na:@brunn1971] cited Huck's dissertation among a group of work they characterized as focusing on "internal relations of countries," though otherwise made no other mention of it.
+Indeed, Huck's was an apolitical political geography of the prospects for the territory's independence.
+As she later recounted:
+
+#+begin_quote
+  I had survived the pervasive "Liberal" brainwash of Academe by dint of a profound disinterest in "politics," the disposition of a "loner," and an ability (difficult to explain) to develop a passionate interest in the evolution of landforms, Congolese rainfall, the influence of Islam on the distribution of pigs, and similar matters of import to professional geographers [cite/na:@huck1973 p45].
+#+end_quote
+
+Upon completing her PhD, Huck took an academic teaching job at Hunter College, where she experienced a political awakening that she later recounted as involving an initial tentative dabbling in conservative political thought that deepened and confirmed by what she viewed as a "Communist outpost" that systematically and unfairly "blacklisted" her.
+She narrated her conversion to "the Right" via what she calls "three strikes"; incidents that, from her perspective, branded her a conservative amid an inflexibly Left intellectual environment.
+
+Her first strike was, she believed, that she likely wore a "Conservative Party" political button.
+She described this, however, as "such a minor matter" [cite/na:@huck1973 p46].
+Strike two came as a consequence of her reaction to an on-campus forum during the Cuban Missile Crisis.
+Here's how she described the event, and its politics [cite/na:@huck1973 p46].
+
+#+begin_quote
+  The only effect the Cuban Missile Crisis had on Hunter was to provide
+  Opportunity Number 89,057 for a big Communist propaganda show. The
+  world of Hunter came to a clanking halt, we gathered in the
+  auditorium, and lo, there was a Panel Discussion. All shades of
+  opinion were of course represented - blushing Pink, shrieking Pink,
+  and Red Flag Red.... Professor John Somerville of the Department of
+  Philosophy was Fidel Castro's spokesman. There I sat in the
+  auditorium, rather shocked at his blatant and vicious
+  anti-Americanism, thinking to myself, "Golly, he sounds like a
+  Communist."
+#+end_quote
+
+She recounted spending time after that event researching this professor and his politics.
+After doing so, she concluded he was "a hard-line Stalinist" [cite/na:@huck1973 p46] and reported this information to her colleagues.
+She believed this brought "Strike Two," and meant for her that Hunter was an environment that shared broad communist sympathies.
+
+Huck described "Strike Three," which culminated in the lack of renewal of her contract, as her leadership of a conservative student group, and decision to invite the publisher of the conservative _National Review__ to speak at the College.
+While she described this as the precipitating event in her termination, she wrote that her “real offense lay in finding out about Comrade Somerville [cite/na:@huck1973 p47].
+
+After initial publications in more mainstream conservative publications such as the /National Review/, she ultimately found herself at the /American Opinion/, the official publication of the John Birch Society.
+The following explores more in-depth the discourse of Huck's public writing in /American Opinion/.
+In it, I identify four common topics that, if superficially rather distinct, shared a common theme of a global conspiracy to create a /New World Order/; a trope that continues to be prominent in contemporary right wing discourse in the 21st century.
+While Huck adopted this larger narrative to provide an explanatory framework for her writing that resonated with her audience, she also supported this geopolitical story with analytical arguments that she appears to have drawn from her academic geographic training.
+While she was highly critical of American academia, then, she nevertheless relied on it to provide intellectual weight and authority to her arguments.
+
+*** Skepticism of Elite Knowledge
+    :PROPERTIES:
+    :CUSTOM_ID: skepticism-of-elite-knowledge
+    :END:
+
+In general, Huck simultaneously drew on her intellectual training for authority, while otherwise dismissing academic and other expert knowledge.
+She was, for example, an early climate change denier, long before the theme was a topic of general interest.
+Here, for example, she comments on the uncertainty of climate science.
+
+#+begin_quote
+... an increase in average temperature of one or two degrees seemed to me a great benefit.
+More moisture would be evaporated from the sea and transported inland than now (that is, if it made any discernible difference), so the desert belts might narrow ever so slightly, the subhumid lands might grow greener (and stay > green longer into winter), and Canada, Europe, the Soviet Union, and north China might be blessed with longer and warmer growing seasons and be enabled to cultivate lands further north than at present [cite:@huck1978e p99].
+#+end_quote
+
+*** International Geopolitics
+    :PROPERTIES:
+    :CUSTOM_ID: international-geopolitics
+    :END:
+
+We might call many of the articles Huck published in the /American Opinion/ /popular regional geographies/.
+They consisted of her describing countries and regions around the world, and her interpreting their geopolitical significance.
+Whether about Sweden, or Taiwan, or (as happened on multiple occasions) various configurations of countries in Sub-Saharan Africa, Huck always commented on how these places fit within the context of the Cold War.
+Her reports on Europe typically focused on individual states.
+Here, for example, she comments on the state of Sweden, in 1971.
+
+#+begin_quote
+The Swedish people are perfectly nice, normal people who've simply been munching the socialist narcotic too long.
+They are being pushed toward a more or less anti-American attitude by their governmental and organizational masters, and they are simply too passive and dependent to resist this pressure.
+And too brainwashed to examine the source of it [cite:@huck1971d p70].
+#+end_quote
+
+Here the tone of her writing is also different.
+Whereas the preceding quote is mostly dispassionate and academic, here she introduces language we might call populist ****.
+Commonly, she moved between these two mode of rhetoric, often in the same article.
+
+By contrast to the individual focus of the typical report on Europe, Huck's reports on the Global South were frequently regional surveys, bundling together commentary on a number of disparate countries.
+Framing these reports was a consistent Cold Warrior perspective.
+
+#+begin_quote
+There is a division of labor in sub-Saharan Africa.
+The West ... provides the money and food and material and equipment for almost everything.
+The Soviets provide the military hardware, the East Germans provide the Communist Gestapo, the North Koreans provide the palace guards and the monuments, the Red Chinese are beginning again to provide the coolies, and the Cubans provide troops where more muscle is needed.
+In this manner, the New World Order comes to Africa [cite:@huck_1983-africa p67].
+#+end_quote
+
+*** Domestic Politics
+    :PROPERTIES:
+    :CUSTOM_ID: domestic-politics
+    :END:
+
+Another common topic for Huck was U.S. domestic politics.
+Here she focused in particular on the growing reach of the federal government in local lives, and on what she characterized as a conspiracy of Communists and liberals to undermine the power of the United States globally.
+
+#+begin_quote
+If you would like to have a copy of President Nixon's plan for  dictatorship all your own, and see what else E.O. 11490 contemplates, ask your Congressman for a copy of the Federal Register, Volume 34, Number 209, dated October 30, 1969 [cite:@huck1972 p36].
+#+end_quote
+
+*** A New World Order
+    :PROPERTIES:
+    :CUSTOM_ID: a-new-world-order
+    :END:
+
+The international regional geographies Huck presented where different in substantive focus from her discussions of domestic politics.
+Yet what bound these together was a larger narrative about an emerging /New World Order/.
+Originally coined by Progressives in the wake of World War I to refer to the promise of new international cooperation as reflected in institutions like the United Nations, the /New World Order/ took on a sinister character after World War II for the right, which saw in it a perfect vehicle for Communist tyranny.
+
+#+begin_quote
+When the elite of the New World Order fly across the United States, it must annoy them to look down and see the vast midsection of this land crisscrossed with section lines a mile apart.
+Those lines are so solidly engraved upon the surface that Americans are going to know what a mile is whether their rulers like it or not for a long long time to come. But the metric fanatics mean to have their own way [cite:@huck1977a p98].
+#+end_quote
+
+* Conclusion
+  :PROPERTIES:
+  :CUSTOM_ID: conclusion
+  :END:
+
+It's hard to avoid recognizing parallels in the stories of the right in the early 21st century.
+Today the figure of the terrorist, and a global jihad, has largely replaced that of the Communist, but the theme of a global conspiracy threatening local freedom and diversity remains.
+
+Consider the raft of local and state laws barring the imposition of Sharia Law, or the continued concern with the United Nations.
+
+The engagement of geographers, and geographic ideas, in these popular intellectual developments is worthy of further attention.
+
+More broadly, this case sheds further light on the intellectual history of a discipline.
+Intellectual historians of geography have often noted the impact of the Cold War on the shape of intellectual inquiry, but often focused on the Leftward tack that many geographers took.
+The radical turn of the 1970s, for example, was for many geographers a turn away from the disinterested positivism they saw as dominant at the time.
+For other geographers, like Susan Huck, took quite different paths instead.
+
+* Bibliography
+  :PROPERTIES:
+  :CUSTOM_ID: bibliography
+  :END:
+
+
+#+print_bibliography:
